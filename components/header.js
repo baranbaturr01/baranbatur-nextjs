@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <div className='logo'>
-        <Link href='/'>SG</Link>
+        <Link href='/'>BATUR</Link>
       </div>
       <nav>
         <Link href='/code'>Kod</Link>
