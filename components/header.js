@@ -1,4 +1,5 @@
 import Link from 'next/link'
+
 export default function Header() {
   return (
     <header>
@@ -7,8 +8,6 @@ export default function Header() {
       </div>
       <nav>
         <Link href='/code'>Kod</Link>
-        <Link href='/movie'>Film</Link>
-        <Link href='/writing'>Yazı</Link>
       </nav>
     </header>
   )
